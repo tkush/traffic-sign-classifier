@@ -1,3 +1,5 @@
+**Note**: For additional information, please open the Python notebook in this repo.
+
 # Traffic sign classification using Convolution Nets
 This document describes the basic thoughts and workflow behind the submission for classifying images of traffic signs. Most of the iterations described here are based on online reading, paper reviews and blogs.
 
