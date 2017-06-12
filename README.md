@@ -3,6 +3,7 @@
 # Traffic sign classification using Convolution Nets
 This document describes the basic thoughts and workflow behind the code for classifying images of traffic signs. Most of the iterations described here are based on online reading, paper reviews and blogs.
 
+## Keywords: Deep learning, Computer vision, Tensor-flow, GPU training, CNN
 #### Basic Idea
 Create a convolutional neural network that trains on a set of input images and their labels to be able to predict the correct classification for a “new” image that it has not trained on. 
 
